@@ -1,8 +1,6 @@
 
-<h3 align="left">My name is Pavel,
-<br>
-Fullstack JavaScript developer
-</h3>
+<h3 align="left">My name is Pavel!</h3>
+<div>Fullstack JavaScript developer</div>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
